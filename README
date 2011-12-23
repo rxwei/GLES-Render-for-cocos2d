@@ -1,1 +1,11 @@
+ README
+
+ Created by Richard Wei on Dec 23, 2011.
+ Copyright 2011 Xinranmsn Labs.
+
+In official cocos2d+Box2D template, GLES-Render does not support Retina Display, and results in difficulty when debugging.
+
+This is an optimized GLES-Render class for cocos2d, compatible with Retina Display.
+
+Feel free to use it or change it.
 
